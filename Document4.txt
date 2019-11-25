@@ -1,0 +1,3 @@
+Several schema systems exist to aid in the definition of XML-based languages,
+while programmers have developed many application programming interfaces (APIs)  
+to aid the processing of XML data.
